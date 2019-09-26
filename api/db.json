@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "abc",
+      "description": "cde",
+      "id": 1
+    },
+    {
+      "description": "cda",
+      "title": "other ",
+      "id": 2
+    },
+    {
+      "title": "sda",
+      "description": "asd",
+      "userId": "118066823125028736165",
+      "id": 5
+    },
+    {
+      "title": "abc",
+      "description": "cds",
+      "userId": "118066823125028736165",
+      "id": 6
+    }
+  ]
+}
